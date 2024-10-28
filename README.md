@@ -11,23 +11,33 @@ The Rock Paper Scissors Game is a simple yet engaging web-based game developed u
 Features
 
 User-Friendly Interface: The game offers an intuitive layout, allowing players to make their selections easily.
+
 Interactive Gameplay: Players can click on their desired choice (rock, paper, or scissors) to initiate a round against the computer.
+
 Real-Time Scoreboard: The current scores for the user, computer, and draw counts are displayed prominently, updating automatically after each round.
+
 Responsive Design: The game is designed to be fully responsive, ensuring a seamless experience on various devices, including desktops, tablets, and smartphones.
+
 Stylish Visuals: Enhanced with neon color accents and smooth hover effects, the game's aesthetic appeals to modern web users.
 
 
 Technologies Used
 
 HTML: To structure the game layout and content.
+
 CSS: To style the game elements, providing a visually appealing experience.
+
 JavaScript: To implement game logic, handle user interactions, and manage score updates.
 
 
 How to Play
 
 Open the index.html file in your web browser.
+
 Choose your move by clicking on one of the options (Rock, Paper, Scissors).
+
 The computer will make its choice randomly.
+
 The game will display the outcome (win, lose, or draw) and update the score accordingly.
+
 Repeat the process to play multiple rounds.
